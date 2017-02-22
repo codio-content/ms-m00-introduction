@@ -1,0 +1,712 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-599494185",
+  "source": {
+   "name": "QuizQuestion1",
+   "showName": true,
+   "instructions": "A work or invention that is the result of creativity is called:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "204efcb6-08cc-f7e2-5260-397d35af136f",
+     "correct": false,
+     "answer": "Piracy"
+    },
+    {
+     "_id": "4ff10b6c-874e-1ae5-b81e-230d03355db9",
+     "correct": false,
+     "answer": "Copyright\n\n"
+    },
+    {
+     "_id": "6a9908bf-2e3f-e02a-cf7a-515b431b2a4a",
+     "correct": true,
+     "answer": "Intellectual Propery\n\n"
+    },
+    {
+     "_id": "bda49dfe-6da0-d197-1a7e-63f48beb086f",
+     "correct": false,
+     "answer": "Plagiarism"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-965791160",
+  "source": {
+   "name": "QuizQuestion2",
+   "showName": true,
+   "instructions": "The practice of copying another persons work and passing it off as your own is called what?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "c8027cfd-522e-21a6-19d2-7812c1c25ee7",
+     "correct": false,
+     "answer": "Piracy"
+    },
+    {
+     "_id": "b1641218-62a5-ecf7-f00c-5e20b6b46e34",
+     "correct": false,
+     "answer": "Copyright"
+    },
+    {
+     "_id": "aff6d7ef-deb5-e496-62bb-b9a796aa2da3",
+     "correct": false,
+     "answer": "Intellectual Property\n\n"
+    },
+    {
+     "_id": "c1c13ac2-7f18-45cf-a084-ad07a005c14b",
+     "correct": true,
+     "answer": "Plagiarism"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-161216916",
+  "source": {
+   "name": "QuizQuestion3",
+   "showName": true,
+   "instructions": "What is binary?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "02064e80-f8c4-a8a8-e9a8-e51ce41708f3",
+     "correct": false,
+     "answer": "The way a computer speaks"
+    },
+    {
+     "_id": "d6f0c292-7783-45ba-1858-1aebf2745ab6",
+     "correct": true,
+     "answer": "A sequence of 1’s and 0’s"
+    },
+    {
+     "_id": "e3ac0d88-b672-fa58-75e8-cd0281c3b40f",
+     "correct": false,
+     "answer": "A useless code that is no longer used"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3171671931",
+  "source": {
+   "name": "QuizQuestion4",
+   "showName": true,
+   "instructions": "What kind of ‘base’ system is binary known as?\n\n",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "538c29af-65b9-5ada-6763-df256cae6b57",
+     "correct": false,
+     "answer": "Base 10\n\n"
+    },
+    {
+     "_id": "8a8bb509-063b-70c2-39ea-4c4c62a78830",
+     "correct": true,
+     "answer": "Base 2"
+    },
+    {
+     "_id": "346c34a4-d6e6-774a-6501-e83e67fecb4b",
+     "correct": false,
+     "answer": "Base 8"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-339035589",
+  "source": {
+   "name": "QuizQuestion5",
+   "showName": true,
+   "instructions": "",
+   "points": "4",
+   "showValues": false,
+   "text": "<<<Binary>>> is a number system that only uses <<<two>>> digits: 1 and 0. All <<<information>>> that is processed by a computer is in the form of a <<<sequence>>> of 1s and 0s.",
+   "tokens": {
+    "blank": [
+     "Binary",
+     "two",
+     "information",
+     "sequence"
+    ],
+    "text": [
+     0,
+     " is a number system that only uses ",
+     0,
+     " digits: 1 and 0. All ",
+     0,
+     " that is processed by a computer is in the form of a ",
+     0,
+     " of 1s and 0s."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1748392568",
+  "source": {
+   "name": "QuizQuestion6",
+   "showName": true,
+   "instructions": "Which of the following is an example of thinking computationally?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "e2763954-34ce-a4b3-b545-7c11ee6b8240",
+     "correct": false,
+     "answer": "When going to meet a friend, wandering around until you find them"
+    },
+    {
+     "_id": "217ea02d-b649-d8f5-2a81-0840f54b2e66",
+     "correct": true,
+     "answer": "Planning out your route when going to meet a friend"
+    },
+    {
+     "_id": "99501533-c4ec-f41f-fbce-b58f4c878d4e",
+     "correct": false,
+     "answer": "When going to meet a friend, asking a parent to plan your route for you"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3460330113",
+  "source": {
+   "name": "QuizQuestion7",
+   "showName": true,
+   "instructions": "Which computational thinking technique involves breaking a problem down into smaller parts?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "35de8561-c460-2dc1-441c-642caf101081",
+     "correct": true,
+     "answer": "Decomposition"
+    },
+    {
+     "_id": "8c7a349b-5af7-ec35-cc07-5564544e7326",
+     "correct": false,
+     "answer": "Abstraction"
+    },
+    {
+     "_id": "013f066e-5510-cf2d-eed5-4544397e1e19",
+     "correct": false,
+     "answer": "Algorithms"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2472115213",
+  "source": {
+   "name": "QuizQuestion8",
+   "showName": true,
+   "instructions": "Images I find on the internet can be used in anything I want without worrying about who created it.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "4dd30835-f007-eba6-f89d-171801d18dd4",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "15036521-e227-83c1-deaa-7e27884ef370",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1970052441",
+  "source": {
+   "name": "QuizQuestion9",
+   "showName": true,
+   "instructions": "Which of these is not a way that the internet has impacted personal communication?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "d3390f60-c1e7-d8d1-f217-0a7fdda64d58",
+     "correct": false,
+     "answer": "Having many ways to communicate online builds personal relationships."
+    },
+    {
+     "_id": "e200013d-48b9-a642-faf7-9f14fd44ca3b",
+     "correct": false,
+     "answer": "Constant, ongoing communication makes people feel closer."
+    },
+    {
+     "_id": "bd3c110d-3404-c102-a52b-94f195900ee6",
+     "correct": true,
+     "answer": "Using modern technology makes people feel important."
+    },
+    {
+     "_id": "568da5f7-475b-737d-aa47-370063499fac",
+     "correct": false,
+     "answer": "People share more details of their lives and understand each other better."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3372376007",
+  "source": {
+   "name": "QuizQuestion10",
+   "showName": true,
+   "instructions": "In which of these ways can technology have a negative affect on health?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "c69556cb-8a93-69d9-a213-f609e1e2c0cc",
+     "correct": true,
+     "answer": "Sitting in one position for an extended period can cause muscle strain and blood clots.\n"
+    },
+    {
+     "_id": "2ec8feb1-fe0e-6ccf-5a11-e9dc67fbdb16",
+     "correct": false,
+     "answer": "Using the computer to type letters is not as personal as writing them."
+    },
+    {
+     "_id": "756cf322-5d4c-1616-3756-d417e017dccd",
+     "correct": false,
+     "answer": "Monitor devices can send alerts to a phone when attention is needed."
+    },
+    {
+     "_id": "d2492834-5763-7017-ef17-09e2a6aeb20b",
+     "correct": false,
+     "answer": "Step Counters such as fitbit encourage more active lifestyles."
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2276126976",
+  "source": {
+   "name": "QuizQuestion11",
+   "showName": true,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "Information is sent from computer to computer in small pieces called <<<packets>>>.",
+   "tokens": {
+    "blank": [
+     "packets"
+    ],
+    "text": [
+     "Information is sent from computer to computer in small pieces called ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1757158374",
+  "source": {
+   "name": "QuizQuestion12",
+   "showName": true,
+   "instructions": "What is one reason a company would split people into categories based on their data?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "408fceeb-73c9-1677-612b-d96cd5a25a37",
+     "correct": false,
+     "answer": "To send mail to all of the people in every category.\n- "
+    },
+    {
+     "_id": "11b1d959-f8bc-d5c1-190e-226bab59cad1",
+     "correct": true,
+     "answer": "To determine what items they are most likely to buy."
+    },
+    {
+     "_id": "a4ff1618-3007-4dac-fb9b-c272fbcc8ccf",
+     "correct": false,
+     "answer": "To help them make friends."
+    },
+    {
+     "_id": "fcf994ec-62c5-e6e0-7720-afe1d243e976",
+     "correct": false,
+     "answer": "To search for missing people."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1467636491",
+  "source": {
+   "name": "QuizQuestion13",
+   "showName": true,
+   "instructions": "If a device is having problems, which is not a step in troubleshooting?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "d920827b-e336-c98f-e245-fbd33e8e61b3",
+     "correct": false,
+     "answer": "Turning it off then back on."
+    },
+    {
+     "_id": "61cb015f-be15-65fd-dda0-377fed6b036a",
+     "correct": false,
+     "answer": "Checking network connections."
+    },
+    {
+     "_id": "375a6441-1e7c-a4cb-2a3c-17d5c9f1aa08",
+     "correct": true,
+     "answer": "Clicking lots of random places until it responds."
+    },
+    {
+     "_id": "8b290a1c-d67b-9211-7607-96bb8eeeb86f",
+     "correct": false,
+     "answer": "Replacing components to find the part that is not working."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3180849320",
+  "source": {
+   "name": "QuizQuestion14",
+   "showName": true,
+   "instructions": "Which of these does not pose a security risk?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "51464431-7069-e1e8-39ba-4e6302850a7f",
+     "correct": false,
+     "answer": "weak passwords"
+    },
+    {
+     "_id": "f16e3fd6-5790-9db5-ce32-22ca0b44f9ea",
+     "correct": true,
+     "answer": "encrypted data"
+    },
+    {
+     "_id": "0c7980e2-ca0a-6574-4d04-91376cd359d1",
+     "correct": false,
+     "answer": "insecure transactions"
+    },
+    {
+     "_id": "2c1fa8fb-9f07-b5c4-bd07-38206240bdc0",
+     "correct": false,
+     "answer": "data persistence"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-277632889",
+  "source": {
+   "name": "QuizQuestion15",
+   "showName": true,
+   "instructions": "An algorithm is a set of __________ to solve a problem.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "3cf10562-9656-f2ab-eb5c-06058a8e32e6",
+     "correct": true,
+     "answer": "steps"
+    },
+    {
+     "_id": "1683f563-2e61-9823-8210-e28cd00e8188",
+     "correct": false,
+     "answer": "devices"
+    },
+    {
+     "_id": "38f98f20-026c-0f3a-844e-b6430e8b5a51",
+     "correct": false,
+     "answer": "values"
+    },
+    {
+     "_id": "6473665a-a583-31cc-ff9b-983d29b7ca49",
+     "correct": false,
+     "answer": "rules"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1765465320",
+  "source": {
+   "name": "QuizQuestion16",
+   "showName": true,
+   "instructions": "",
+   "points": "2",
+   "showValues": false,
+   "text": "A variable is mainly a <<<storage>>> location with some type of identifying <<<name>>>.",
+   "tokens": {
+    "blank": [
+     "storage",
+     "name"
+    ],
+    "text": [
+     "A variable is mainly a ",
+     0,
+     " location with some type of identifying ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1448112317",
+  "source": {
+   "name": "QuizQuestion17",
+   "showName": true,
+   "instructions": "Which is NOT a correct print statement. (Assume age and name are variables)",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "391418c0-719d-55e5-e84d-084c40e77b62",
+     "correct": false,
+     "answer": "print(5)"
+    },
+    {
+     "_id": "ea7defb9-e23f-d332-3211-c88795bdb9d9",
+     "correct": false,
+     "answer": "print(age)"
+    },
+    {
+     "_id": "0dcb0574-dd7e-6686-51a2-6525e8d0ab23",
+     "correct": false,
+     "answer": "print (name,age)"
+    },
+    {
+     "_id": "332b669f-1f7f-efb6-e3da-c06c49163d06",
+     "correct": true,
+     "answer": "print( my name is sally)"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3383501765",
+  "source": {
+   "name": "QuizQuestion18",
+   "showName": true,
+   "instructions": "",
+   "points": "2",
+   "showValues": true,
+   "text": "A <<<for loop>>> goes a set number of times whereas a <<<while loop>>> continues until a condition is not met. ",
+   "tokens": {
+    "blank": [
+     "for loop",
+     "while loop"
+    ],
+    "text": [
+     "A ",
+     0,
+     " goes a set number of times whereas a ",
+     0,
+     " continues until a condition is not met. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-260663354",
+  "source": {
+   "name": "QuizQuestion19",
+   "showName": true,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "A conditional statement in Python and many other languages is handled by an <<<if>>> statement.",
+   "tokens": {
+    "blank": [
+     "if"
+    ],
+    "text": [
+     "A conditional statement in Python and many other languages is handled by an ",
+     0,
+     " statement."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-157646588",
+  "source": {
+   "name": "QuizQuestion20",
+   "showName": true,
+   "instructions": "When considering which solution for an algorithm is best which one of the following is NOT something you consider.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "35bd5961-f497-021e-3c21-9074c6570595",
+     "correct": false,
+     "answer": "Time"
+    },
+    {
+     "_id": "6f27ad98-ad10-6444-418a-7c1a506d8d6e",
+     "correct": false,
+     "answer": "Efficiency"
+    },
+    {
+     "_id": "1af88b3a-7e33-1ca0-5031-2cc384fdfafd",
+     "correct": true,
+     "answer": "Spelling"
+    },
+    {
+     "_id": "6aeda931-a3e9-aa51-62fc-91f5d4b49455",
+     "correct": false,
+     "answer": "Space"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1005541094",
+  "source": {
+   "name": "QuizQuestion21",
+   "showName": true,
+   "instructions": "",
+   "points": "5",
+   "showValues": false,
+   "text": "Ubiquitous computing is a concept where computing is made to appear <<<anytime>>> and <<<everywhere>>>. \nUbiquitous computing can occur using any <<<device>>>, in any <<<location>>>, and in any <<<format>>>.",
+   "tokens": {
+    "blank": [
+     "anytime",
+     "everywhere",
+     "device",
+     "location",
+     "format"
+    ],
+    "text": [
+     "Ubiquitous computing is a concept where computing is made to appear ",
+     0,
+     " and ",
+     0,
+     ". \nUbiquitous computing can occur using any ",
+     0,
+     ", in any ",
+     0,
+     ", and in any ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-209079104",
+  "source": {
+   "name": "QuizQuestion22",
+   "showName": true,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "Digital images are made up of millions of tiny <<<pixels>>>.",
+   "tokens": {
+    "blank": [
+     "pixels"
+    ],
+    "text": [
+     "Digital images are made up of millions of tiny ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4055441944",
+  "source": {
+   "name": "QuizQuestion23",
+   "showName": true,
+   "instructions": "",
+   "points": "2",
+   "showValues": false,
+   "text": "In Computer Science, <<<decomposition>>> is breaking a complex problem into smaller parts that are easier to program or solve. <<<Functions>>> in Python are basically a decomposed step of a problem.",
+   "tokens": {
+    "blank": [
+     "decomposition",
+     "Functions"
+    ],
+    "text": [
+     "In Computer Science, ",
+     0,
+     " is breaking a complex problem into smaller parts that are easier to program or solve. ",
+     0,
+     " in Python are basically a decomposed step of a problem."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3264331502",
+  "source": {
+   "name": "QuizQuestion24",
+   "showName": true,
+   "instructions": "",
+   "points": "2",
+   "showValues": true,
+   "text": "A <<<parameter>>> is what something is called when it is passed to a function.  When data is passed back to the main program you use a <<<return>>> statement. ",
+   "tokens": {
+    "blank": [
+     "parameter",
+     "return"
+    ],
+    "text": [
+     "A ",
+     0,
+     " is what something is called when it is passed to a function.  When data is passed back to the main program you use a ",
+     0,
+     " statement. "
+    ]
+   }
+  }
+ }
+]
